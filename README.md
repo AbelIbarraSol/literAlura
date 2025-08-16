@@ -9,7 +9,7 @@ Clona el repositorio.
 ```bash
   git clone https://github.com/AbelIbarraSol/literAlura.git
 ```
-o [⬇ Descarga el proyecto]([https://github.com/AbelIbarraSol/conversorDeMonedas/archive/refs/heads/main.zip](https://github.com/AbelIbarraSol/literAlura/archive/refs/heads/main.zip) y descomprimelo.
+o [⬇ Descarga el proyecto](https://github.com/AbelIbarraSol/literAlura/archive/refs/heads/main.zip) y descomprimelo.
 
 ## :point_up::sunglasses: ¿Cómo usarlo?
 
